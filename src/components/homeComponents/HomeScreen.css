@@ -1,0 +1,24 @@
+.searchContainer {
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.searchInput {
+    border: none;
+    background: url(../../assets/scearchIcon-removebg-preview.png) no-repeat scroll 7px 7px;
+    padding-left:40px;
+    height: 40px;
+    background-color: rgb(253, 193, 158);
+    border-radius: 30px;
+    width: 250px;
+    font-size: 20px;
+}
+
+.recipeCardSection {
+    display: flex;
+    flex-wrap: wrap;
+}
+
