@@ -1,0 +1,51 @@
+.imgBanner {
+    height: 185px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.big-text {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: rgb(226, 114, 40);
+        font-size: 40px;
+        font-weight: 600;
+        text-shadow: 4px 4px 4px black;
+}
+
+.mainContainer {
+display: flex;
+justify-content: space-evenly;
+height: 343px;
+
+}
+
+.ingredients {
+
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    width: 175px;
+    padding: 10px;
+
+}
+
+.instructions {
+    max-width: 400px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 10px;
+}
+
+.centerDiv {
+    text-align: center;
+    margin: 10px;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.ingred-text {
+    font-size: 15px;
+    margin: 3px;
+}

@@ -14,7 +14,7 @@ h3 {
     justify-content: space-evenly;
 }
 
-h1 {
+.bigText {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(226, 114, 40);
     font-size: 40px;
