@@ -21,3 +21,7 @@ time, mark, audio, video {
 }
 
 /* --------- Begin your CSS Below here --------- */
+
+main {
+	min-height: calc(100vh - 60px - 125px);
+}
